@@ -1,0 +1,14 @@
+body{
+    width: 100;
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+}
+h1{
+    font-size: 20px;
+}
+button{
+    color: blueviolet;
+    background-color: blanchedalmond;
+    
+}
